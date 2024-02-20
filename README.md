@@ -1,7 +1,3 @@
-Certainly! Here's a description that you can add to your GitHub repository for this project:
-
----
-
 # Balance Sheet Webpage
 
 This project is a simple webpage representing a balance sheet for AcmeWidgetCorp, designed using HTML and styled with CSS. The balance sheet displays information about assets, liabilities, and net worth for the years 2019, 2020, and 2021. The layout is clean and organized, with a focus on providing a clear representation of financial data.
